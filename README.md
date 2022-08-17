@@ -1,10 +1,10 @@
-#Laravel test project
+# Laravel test project
 
 For run server you can use 
 
-###./vendor/bin/sail up
+### ./vendor/bin/sail up
 
-##Задачи
+## Задачи
     Используя фреймворк Laravel реализовать RESTful api.
     
     1. Реализовать сущности:
@@ -31,4 +31,4 @@ For run server you can use
 ##Реализованы
 1. Модели Product Category Product-Category, а так же созданы миграции для данных таблиц
 2. Создан весь необходимый функционал
-3. Добавлена фильтрация на получение списка товаров ###(/api/product) по параметрам, указанным выше.
+3. Добавлена фильтрация на получение списка товаров ### (/api/product) по параметрам, указанным выше.
